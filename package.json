@@ -1,0 +1,17 @@
+{
+  "name": "irotuka",
+  "version": "1.0.0",
+  "description": "Irotuka Bot By Plasma",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "enmap": "^5.1.2",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Plasma",
+  "license": "MIT"
+}
